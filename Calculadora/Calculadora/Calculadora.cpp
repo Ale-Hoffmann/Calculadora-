@@ -22,3 +22,8 @@ float Calculadora::multiplicacao(float opA, float opB)
 {
 	return opA * opB;
 }
+
+float Calculadora::divisao(float opA, float opB)
+{
+	return opA/opB;
+}
